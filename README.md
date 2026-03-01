@@ -177,8 +177,8 @@ a production tool needs.
 
 ### Setup
 ```bash
-git clone https://github.com/zonixt017/must-market-intel
-cd must-market-intel
+git clone https://github.com/zonixt017/Crypto-Market-Intelligence-Agent/
+cd Crypto-Market-Intelligence-Agent
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
