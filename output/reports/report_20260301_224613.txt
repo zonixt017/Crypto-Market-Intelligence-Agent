@@ -1,0 +1,10 @@
+MUST MARKET INTELLIGENCE REPORT
+Timestamp: 2026-03-01 22:46:13
+============================================================
+
+⚪ IGNORE — USD1USDT — Score: 35.7/100
+USD1USDT is priced at $1.0 with moderate momentum and very low volume. This suggests a potential trap due to its high liquidity making it easy to exit, but the authenticity score indicates it looks like genuine trading activity. IGNORE: avoid this asset due to its weak overall score and neutral market sentiment.
+
+============================================================
+Report saved successfully.
+============================================================

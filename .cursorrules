@@ -1,0 +1,35 @@
+# MUST Market Intelligence Agent - Cursor Configuration
+# This project follows a strict three-agent architecture
+
+## Project Architecture
+This is a multi-agent AI system with three specialized agents:
+- agents/watcher.py: ONLY handles Binance data fetching and anomaly flagging
+- agents/analyst.py: ONLY handles scoring logic (momentum, volume, liquidity, authenticity)
+- agents/narrator.py: ONLY handles LLM prompt construction and plain-English report generation
+- core/orchestrator.py: Coordinates agents, never contains business logic
+- core/scorer.py: Performance benchmarking only
+- core/binance_client.py: Binance API calls only, no analysis logic
+
+## Strict Rules
+- NEVER mix agent responsibilities. If modifying watcher.py, do not touch analyst logic
+- NEVER hardcode API keys or credentials. Always use os.getenv()
+- ALWAYS add sys.path.insert(0, project_root) at top of any new executable file
+- NEVER import agents directly in run.py - use Orchestrator only
+- ALL Binance API calls go through core/binance_client.py exclusively
+
+## Code Style
+- All functions must have docstrings
+- All API calls must have try/except error handling
+- Use type hints on all function signatures
+- Keep each agent file under 300 lines
+
+## When Adding Features
+- New data sources: add methods to binance_client.py first
+- New analysis metrics: add to analyst.py score_opportunity() only
+- New output formats: add to narrator.py format_final_output() only
+- New scheduling logic: add to orchestrator.py only
+
+## Testing
+- Always test with python run.py --test before python run.py --once
+- Mock data is in run.py test mode, do not modify mock values
+- Performance scoring is in core/scorer.py

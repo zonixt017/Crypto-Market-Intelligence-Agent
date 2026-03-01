@@ -1,0 +1,16 @@
+MUST MARKET INTELLIGENCE REPORT
+Timestamp: 2026-03-01 22:09:41
+============================================================
+
+🟡 MONITOR — SOLUSDT — Score: 53.2/100
+SOL is spiking in volume at $87, with a high volume score indicating unusual activity. This suggests a potential opportunity, as the strong liquidity score indicates it's easy to exit, and the authenticity score implies genuine trading activity. MONITOR: consider entering a position, given the strong volume and ease of exit.
+
+⚪ IGNORE — BTCUSDT — Score: 42.7/100
+BTCUSDT is at $67000 with strong momentum and high volume. This suggests a potentially attractive opportunity, but the thin liquidity and signs of artificial volume are concerning. IGNORE: avoid entering a position due to these red flags.
+
+⚪ IGNORE — ETHUSDT — Score: 40.1/100
+ETHUSDT is currently at $2050.0 with a high momentum, but thin liquidity and moderate authenticity. This suggests a potential trap, as the weak liquidity makes it hard to exit safely. IGNORE: avoid entering a position due to the thin liquidity.
+
+============================================================
+Report saved successfully.
+============================================================

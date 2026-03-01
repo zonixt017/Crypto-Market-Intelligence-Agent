@@ -1,0 +1,22 @@
+MUST MARKET INTELLIGENCE REPORT
+Timestamp: 2026-03-01 22:17:36
+============================================================
+
+🟡 MONITOR — AVAXUSDT — Score: 49.0/100
+AVAX is currently at $9.1 with moderate momentum and volume. This suggests a potential opportunity, given the high liquidity making it easy to exit and strong authenticity indicating genuine trading activity. MONITOR: consider entering a position given the moderate momentum and easy exit.
+
+⚪ IGNORE — ADAUSDT — Score: 39.8/100
+ADAUSDT is currently priced at $0.28 with moderate momentum and weak volume. This suggests a potential trap, given the high liquidity making it easy to exit, but the authenticity of trading activity looks genuine. IGNORE: avoid buying ADAUSDT today due to its weak volume and neutral market sentiment.
+
+⚪ IGNORE — FIOUSDT — Score: 37.1/100
+FIUSDT is priced at $0.01 with a moderate momentum and volume, but weak liquidity. This suggests a potential trap due to the hard-to-exit liquidity, despite strong authenticity. IGNORE: avoid FIOUSDT due to its low overall score and weak liquidity.
+
+⚪ IGNORE — SUIUSDT — Score: 31.1/100
+SUIUSDT is priced at $0.91 with moderate momentum and weak volume. This suggests a potential trap due to thin liquidity, making it hard to exit safely, despite strong authenticity indicating genuine trading activity. IGNORE: avoid entering a position due to weak liquidity.
+
+⚪ IGNORE — BNBUSDT — Score: 16.0/100
+BNB is currently at $626.6 with moderate momentum and weak volume. This suggests a potential trap due to thin liquidity, making it hard to exit safely, and moderate authenticity, indicating some genuine trading activity. IGNORE: avoid investing in BNB today due to its weak overall score and low liquidity.
+
+============================================================
+Report saved successfully.
+============================================================

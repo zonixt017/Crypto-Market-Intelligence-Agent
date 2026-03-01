@@ -1,0 +1,127 @@
+[
+  {
+    "symbol": "AVAXUSDT",
+    "current_price": 9.1,
+    "momentum_score": 50.298470325051966,
+    "volume_score": 57.78120172871708,
+    "liquidity_score": 92.751748954,
+    "authenticity_score": 81.5,
+    "market_context_penalty": true,
+    "final_score": 49.022778768194854,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 775174.8954,
+        "ask_depth": 713915.4255,
+        "spread_pct": 0.11001100110010767,
+        "liquidity_score": 92.751748954
+      },
+      "authenticity": {
+        "unique_trade_sizes": 45,
+        "avg_trade_size": 31.006200000000018,
+        "authenticity_score": 81.5
+      }
+    },
+    "report": "AVAX is currently at $9.1 with moderate momentum and volume. This suggests a potential opportunity, given the high liquidity making it easy to exit and strong authenticity indicating genuine trading activity. MONITOR: consider entering a position given the moderate momentum and easy exit."
+  },
+  {
+    "symbol": "ADAUSDT",
+    "current_price": 0.2796,
+    "momentum_score": 53.12657007242587,
+    "volume_score": 20.32503698930871,
+    "liquidity_score": 90.3005155413,
+    "authenticity_score": 81.1,
+    "market_context_penalty": true,
+    "final_score": 39.814359154379936,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 238967.29497,
+        "ask_depth": 328049.63669,
+        "spread_pct": 0.03577817531305509,
+        "liquidity_score": 90.3005155413
+      },
+      "authenticity": {
+        "unique_trade_sizes": 41,
+        "avg_trade_size": 146.216,
+        "authenticity_score": 81.1
+      }
+    },
+    "report": "ADAUSDT is currently priced at $0.28 with moderate momentum and weak volume. This suggests a potential trap, given the high liquidity making it easy to exit, but the authenticity of trading activity looks genuine. IGNORE: avoid buying ADAUSDT today due to its weak volume and neutral market sentiment."
+  },
+  {
+    "symbol": "FIOUSDT",
+    "current_price": 0.01094,
+    "momentum_score": 64.03633752865203,
+    "volume_score": 58.570052262305,
+    "liquidity_score": 23.870490152333332,
+    "authenticity_score": 86.2,
+    "market_context_penalty": true,
+    "final_score": 37.06103686225519,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 22011.86599,
+        "ask_depth": 22281.151919999997,
+        "spread_pct": 0.18281535648993769,
+        "liquidity_score": 23.870490152333332
+      },
+      "authenticity": {
+        "unique_trade_sizes": 92,
+        "avg_trade_size": 19473.59,
+        "authenticity_score": 86.2
+      }
+    },
+    "report": "FIUSDT is priced at $0.01 with a moderate momentum and volume, but weak liquidity. This suggests a potential trap due to the hard-to-exit liquidity, despite strong authenticity. IGNORE: avoid FIOUSDT due to its low overall score and weak liquidity."
+  },
+  {
+    "symbol": "SUIUSDT",
+    "current_price": 0.9066,
+    "momentum_score": 54.95526320332681,
+    "volume_score": 39.42702761768457,
+    "liquidity_score": 32.806519103,
+    "authenticity_score": 82.6,
+    "market_context_penalty": true,
+    "final_score": 31.06496564116918,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 49744.36963000001,
+        "ask_depth": 42251.08566,
+        "spread_pct": 0.011027790030876597,
+        "liquidity_score": 32.806519103
+      },
+      "authenticity": {
+        "unique_trade_sizes": 56,
+        "avg_trade_size": 138.652,
+        "authenticity_score": 82.6
+      }
+    },
+    "report": "SUIUSDT is priced at $0.91 with moderate momentum and weak volume. This suggests a potential trap due to thin liquidity, making it hard to exit safely, despite strong authenticity indicating genuine trading activity. IGNORE: avoid entering a position due to weak liquidity."
+  },
+  {
+    "symbol": "BNBUSDT",
+    "current_price": 626.6,
+    "momentum_score": 51.41759718256773,
+    "volume_score": 13.386950497941301,
+    "liquidity_score": 21.18742356,
+    "authenticity_score": 59.666666666666664,
+    "market_context_penalty": true,
+    "final_score": 16.002206002588977,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 13685.1076,
+        "ask_depth": 22691.375910000002,
+        "spread_pct": 0.0015962201506817305,
+        "liquidity_score": 21.18742356
+      },
+      "authenticity": {
+        "unique_trade_sizes": 20,
+        "avg_trade_size": 0.10692999999999993,
+        "authenticity_score": 59.666666666666664
+      }
+    },
+    "report": "BNB is currently at $626.6 with moderate momentum and weak volume. This suggests a potential trap due to thin liquidity, making it hard to exit safely, and moderate authenticity, indicating some genuine trading activity. IGNORE: avoid investing in BNB today due to its weak overall score and low liquidity."
+  }
+]

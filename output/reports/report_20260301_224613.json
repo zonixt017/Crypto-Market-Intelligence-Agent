@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "USD1USDT",
+    "current_price": 0.9994,
+    "momentum_score": 46.647505313330434,
+    "volume_score": 1.9288611819673283,
+    "liquidity_score": 100,
+    "authenticity_score": 81.3,
+    "market_context_penalty": true,
+    "final_score": 35.73646688949097,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 24343404.179899998,
+        "ask_depth": 34354174.4929,
+        "spread_pct": 0.0100070049034313,
+        "liquidity_score": 100
+      },
+      "authenticity": {
+        "unique_trade_sizes": 43,
+        "avg_trade_size": 306.28,
+        "authenticity_score": 81.3
+      }
+    },
+    "report": "USD1USDT is priced at $1.0 with moderate momentum and very low volume. This suggests a potential trap due to its high liquidity making it easy to exit, but the authenticity score indicates it looks like genuine trading activity. IGNORE: avoid this asset due to its weak overall score and neutral market sentiment."
+  }
+]

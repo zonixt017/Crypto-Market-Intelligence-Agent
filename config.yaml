@@ -1,0 +1,10 @@
+scan_interval: 300
+top_symbols_count: 20
+user_symbols: []
+anomaly_thresholds:
+  volume_ratio: 2.0
+  price_change_ratio: 1.8
+output:
+  save_reports: true
+  reports_dir: output/reports
+  benchmarks_dir: output/benchmarks

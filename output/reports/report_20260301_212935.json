@@ -1,0 +1,302 @@
+[
+  {
+    "symbol": "SOLUSDT",
+    "current_price": 85.69,
+    "momentum_score": 66.76772226207869,
+    "volume_score": 41.38179805432434,
+    "liquidity_score": 94.6841687669,
+    "authenticity_score": 80.1,
+    "market_context_penalty": true,
+    "final_score": 50.0668083839297,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 968416.8766899998,
+        "ask_depth": 629979.3867300001,
+        "spread_pct": 0.011667250029174094,
+        "liquidity_score": 94.6841687669
+      },
+      "authenticity": {
+        "unique_trade_sizes": 31,
+        "avg_trade_size": 2.1004500000000017,
+        "authenticity_score": 80.1
+      }
+    },
+    "report": "SOL is moving quickly at $85.69, with moderate overall strength and a strong momentum. This suggests a potential opportunity, with high liquidity making it easy to exit and authenticity indicating genuine trading activity. MONITOR: consider a position given the strong momentum and easy exit."
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "current_price": 9.14,
+    "momentum_score": 66.96082169742482,
+    "volume_score": 44.042638020339254,
+    "liquidity_score": 93.91448058499999,
+    "authenticity_score": 77.06666666666666,
+    "market_context_penalty": true,
+    "final_score": 49.990859493895584,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 891448.0584999999,
+        "ask_depth": 670387.0456,
+        "spread_pct": 0.1094091903719889,
+        "liquidity_score": 93.91448058499999
+      },
+      "authenticity": {
+        "unique_trade_sizes": 29,
+        "avg_trade_size": 14.877899999999995,
+        "authenticity_score": 77.06666666666666
+      }
+    },
+    "report": "AVAX is moving quickly at $9.14, with moderate overall strength and a strong momentum. This suggests a potentially genuine opportunity, given the high liquidity making it easy to exit and the moderate authenticity indicating it looks like genuine trading activity. MONITOR: consider a cautious approach given the neutral market sentiment."
+  },
+  {
+    "symbol": "XRPUSDT",
+    "current_price": 1.3778,
+    "momentum_score": 63.380701306657095,
+    "volume_score": 43.47631086116388,
+    "liquidity_score": 94.6911671497,
+    "authenticity_score": 80.6,
+    "market_context_penalty": true,
+    "final_score": 49.6760798947131,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 254107.47293,
+        "ask_depth": 274781.42346,
+        "spread_pct": 0.007257420712677915,
+        "liquidity_score": 94.6911671497
+      },
+      "authenticity": {
+        "unique_trade_sizes": 36,
+        "avg_trade_size": 218.94499999999994,
+        "authenticity_score": 80.6
+      }
+    },
+    "report": "XRPUSDT is currently at $1.38 with moderate overall strength, but its momentum is strong. This suggests a genuine opportunity, given the high liquidity making it easy to exit and strong authenticity indicating it looks like genuine trading activity. MONITOR: consider entering a position given the strong momentum and easy exit."
+  },
+  {
+    "symbol": "LINKUSDT",
+    "current_price": 8.93,
+    "momentum_score": 59.73462579482593,
+    "volume_score": 43.229664928210404,
+    "liquidity_score": 94.117768298,
+    "authenticity_score": 84.7,
+    "market_context_penalty": true,
+    "final_score": 49.197246045000384,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 911776.8298,
+        "ask_depth": 1105823.1265,
+        "spread_pct": 0.11210762331838327,
+        "liquidity_score": 94.117768298
+      },
+      "authenticity": {
+        "unique_trade_sizes": 77,
+        "avg_trade_size": 43.0142,
+        "authenticity_score": 84.7
+      }
+    },
+    "report": "LINK is priced at $8.93 with moderate overall strength, but its momentum is moderate and volume is thin. This suggests a potential trap, given the easy exit options and genuine trading activity. MONITOR: consider holding off on entry due to thin volume."
+  },
+  {
+    "symbol": "ADAUSDT",
+    "current_price": 0.2803,
+    "momentum_score": 66.82047493499732,
+    "volume_score": 31.081122012512342,
+    "liquidity_score": 100,
+    "authenticity_score": 81.5,
+    "market_context_penalty": true,
+    "final_score": 49.116422983627274,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 303510.52721000003,
+        "ask_depth": 262413.83475000004,
+        "spread_pct": 0.03570153516600821,
+        "liquidity_score": 100
+      },
+      "authenticity": {
+        "unique_trade_sizes": 45,
+        "avg_trade_size": 324.9589999999998,
+        "authenticity_score": 81.5
+      }
+    },
+    "report": "ADAUSDT is priced at $0.28 with moderate overall strength, but its momentum is strong. This suggests a genuine opportunity, given its high liquidity makes it easy to exit and strong authenticity indicates genuine trading activity. MONITOR: consider a cautious approach given the moderate overall score."
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "current_price": 0.09388,
+    "momentum_score": 62.761557753299996,
+    "volume_score": 45.11778152832495,
+    "liquidity_score": 100,
+    "authenticity_score": 61.6,
+    "market_context_penalty": true,
+    "final_score": 47.42791270807123,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 422315.81684,
+        "ask_depth": 358999.17091,
+        "spread_pct": 0.010655301012249464,
+        "liquidity_score": 100
+      },
+      "authenticity": {
+        "unique_trade_sizes": 21,
+        "avg_trade_size": 951.92,
+        "authenticity_score": 61.6
+      }
+    },
+    "report": "DOGEUSDT is currently at $0.09, with moderate momentum and weak volume. This suggests a potential trap, given the easy exit options but moderate authenticity. MONITOR: proceed with caution due to thin volume."
+  },
+  {
+    "symbol": "NEARUSDT",
+    "current_price": 1.154,
+    "momentum_score": 62.85152295580842,
+    "volume_score": 25.360732437948776,
+    "liquidity_score": 100,
+    "authenticity_score": 71.26666666666667,
+    "market_context_penalty": true,
+    "final_score": 44.44897332956306,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 447143.27520000003,
+        "ask_depth": 210568.73669999998,
+        "spread_pct": 0.08680555555556528,
+        "liquidity_score": 100
+      },
+      "authenticity": {
+        "unique_trade_sizes": 26,
+        "avg_trade_size": 42.39100000000001,
+        "authenticity_score": 71.26666666666667
+      }
+    },
+    "report": "NEAR is priced at $1.15 with moderate momentum and weak volume. This suggests a potential trap due to thin trading volume, despite easy exit conditions and strong liquidity. IGNORE: avoid investing in NEAR today due to its weak volume and neutral market sentiment."
+  },
+  {
+    "symbol": "SUIUSDT",
+    "current_price": 0.911,
+    "momentum_score": 66.45718146866176,
+    "volume_score": 53.89475593313826,
+    "liquidity_score": 34.11362971655556,
+    "authenticity_score": 81.9,
+    "market_context_penalty": true,
+    "final_score": 38.319250853021984,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 53800.91981,
+        "ask_depth": 59004.238099999995,
+        "spread_pct": 0.010981770261364925,
+        "liquidity_score": 34.11362971655556
+      },
+      "authenticity": {
+        "unique_trade_sizes": 49,
+        "avg_trade_size": 199.83299999999977,
+        "authenticity_score": 81.9
+      }
+    },
+    "report": "SUIUSDT is priced at $0.91 with moderate volume and weak liquidity. This suggests a potential trap due to hard to exit safely and moderate volume. IGNORE: avoid investing due to weak liquidity."
+  },
+  {
+    "symbol": "ETHUSDT",
+    "current_price": 1994.9,
+    "momentum_score": 74.84349981588568,
+    "volume_score": 39.455444780859416,
+    "liquidity_score": 21.007276267277778,
+    "authenticity_score": 49.0,
+    "market_context_penalty": true,
+    "final_score": 27.368730206799995,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 13126.029795000002,
+        "ask_depth": 79526.673499,
+        "spread_pct": 0.000501529665479257,
+        "liquidity_score": 21.007276267277778
+      },
+      "authenticity": {
+        "unique_trade_sizes": 15,
+        "avg_trade_size": 0.11816799999999969,
+        "authenticity_score": 49.0
+      }
+    },
+    "report": "ETHUSDT is currently at $1994.9 with a strong momentum, but weak liquidity and moderate authenticity. This suggests a potential trap due to the hard to exit safely and signs of artificial volume. IGNORE: avoid entering a position due to these concerns."
+  },
+  {
+    "symbol": "BTCUSDT",
+    "current_price": 66829.36,
+    "momentum_score": 78.13242475816122,
+    "volume_score": 28.978225151379227,
+    "liquidity_score": 28.956888893493332,
+    "authenticity_score": 43.2,
+    "market_context_penalty": true,
+    "final_score": 26.563505938666502,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 37797.241393599994,
+        "ask_depth": 88770.7737803,
+        "spread_pct": 1.4956628014394424e-05,
+        "liquidity_score": 28.956888893493332
+      },
+      "authenticity": {
+        "unique_trade_sizes": 13,
+        "avg_trade_size": 9.800000000000012e-05,
+        "authenticity_score": 43.2
+      }
+    },
+    "report": "BTCUSDT is currently at $66829.36 with a moderate momentum and weak volume. This suggests a potential trap due to thin liquidity and authenticity that shows signs of artificial volume. IGNORE this asset for now and monitor it closely for improved liquidity, ideally above 50, before considering any positions."
+  },
+  {
+    "symbol": "BNBUSDT",
+    "current_price": 626.55,
+    "momentum_score": 76.07289723659562,
+    "volume_score": 25.546936862018818,
+    "liquidity_score": 20.704157352,
+    "authenticity_score": 43.2,
+    "market_context_penalty": true,
+    "final_score": 23.024642724483392,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 12185.315920000001,
+        "ask_depth": 33864.46876,
+        "spread_pct": 0.0015962456302761354,
+        "liquidity_score": 20.704157352
+      },
+      "authenticity": {
+        "unique_trade_sizes": 13,
+        "avg_trade_size": 0.0817500000000001,
+        "authenticity_score": 43.2
+      }
+    },
+    "report": "BNBUSDT is priced at $626.55 with a strong momentum, but thin liquidity and weak authenticity. This suggests a potential trap, as the weak authenticity score indicates signs of artificial volume. IGNORE: avoid entering a position due to the hard-to-exit safely liquidity."
+  },
+  {
+    "symbol": "ZECUSDT",
+    "current_price": 220.46,
+    "momentum_score": 59.54939722848427,
+    "volume_score": 13.3766767143155,
+    "liquidity_score": 15.449329159999998,
+    "authenticity_score": 82.2,
+    "market_context_penalty": true,
+    "final_score": 21.511320637124157,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 7724.66458,
+        "ask_depth": 8305.44507,
+        "spread_pct": 0.0045369992287060045,
+        "liquidity_score": 15.449329159999998
+      },
+      "authenticity": {
+        "unique_trade_sizes": 52,
+        "avg_trade_size": 0.973450000000001,
+        "authenticity_score": 82.2
+      }
+    },
+    "report": "ZECUSDT is currently priced at $220.46 with moderate momentum and weak volume. This suggests a potential trap due to thin liquidity, making it hard to exit safely, despite strong signs of genuine trading activity. IGNORE: avoid investing in ZECUSDT today due to its weak overall score and low liquidity."
+  }
+]

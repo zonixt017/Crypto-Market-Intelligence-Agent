@@ -1,0 +1,77 @@
+[
+  {
+    "symbol": "SOLUSDT",
+    "current_price": 87.0,
+    "momentum_score": 31.999999999999996,
+    "volume_score": 96.6,
+    "liquidity_score": 92.1525424152,
+    "authenticity_score": 80.5,
+    "market_context_penalty": true,
+    "final_score": 52.88813560380001,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 715254.2415199999,
+        "ask_depth": 836493.8822400001,
+        "spread_pct": 0.011652295502219898,
+        "liquidity_score": 92.1525424152
+      },
+      "authenticity": {
+        "unique_trade_sizes": 35,
+        "avg_trade_size": 1.4878600000000006,
+        "authenticity_score": 80.5
+      }
+    },
+    "report": "SOL is spiking in volume at $87, with a high volume score indicating unusual activity. This means it's a potential opportunity, given the strong liquidity and high authenticity scores suggesting easy exit and genuine trading. MONITOR: consider entering a position given the easy exit and genuine trading activity."
+  },
+  {
+    "symbol": "BTCUSDT",
+    "current_price": 67000.0,
+    "momentum_score": 71.9,
+    "volume_score": 84.25,
+    "liquidity_score": 46.73493730954889,
+    "authenticity_score": 63.53333333333333,
+    "market_context_penalty": true,
+    "final_score": 47.022900994053884,
+    "priority_level": "MONITOR",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 92970.4950986,
+        "ask_depth": 77417.7911799,
+        "spread_pct": 1.4938824757817466e-05,
+        "liquidity_score": 46.73493730954889
+      },
+      "authenticity": {
+        "unique_trade_sizes": 22,
+        "avg_trade_size": 0.0014315,
+        "authenticity_score": 63.53333333333333
+      }
+    },
+    "report": "BTCUSDT is currently at $67000, with a strong momentum and high volume. This suggests a genuine opportunity, but the thin liquidity and moderate authenticity raise concerns. MONITOR: consider a targeted entry given the moderate overall score and neutral sentiment."
+  },
+  {
+    "symbol": "ETHUSDT",
+    "current_price": 2050.0,
+    "momentum_score": 91.6,
+    "volume_score": 51.6,
+    "liquidity_score": 27.83712091648889,
+    "authenticity_score": 57.733333333333334,
+    "market_context_penalty": true,
+    "final_score": 38.885946895788884,
+    "priority_level": "IGNORE",
+    "analysis_details": {
+      "liquidity": {
+        "bid_depth": 34322.099396,
+        "ask_depth": 17516.299165999997,
+        "spread_pct": 0.0005001825666363676,
+        "liquidity_score": 27.83712091648889
+      },
+      "authenticity": {
+        "unique_trade_sizes": 19,
+        "avg_trade_size": 0.10459499999999972,
+        "authenticity_score": 57.733333333333334
+      }
+    },
+    "report": "ETHUSDT is at $2050.0 with a strong momentum. This suggests a potential trap due to thin liquidity and moderate authenticity. IGNORE: avoid entering a position due to high risk of getting stuck."
+  }
+]
