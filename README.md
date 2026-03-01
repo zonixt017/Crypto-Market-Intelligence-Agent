@@ -1,4 +1,4 @@
-# MUST Market Intelligence Agent
+# Crypto Market Intelligence Agent
 
 > An AI-powered multi-agent system that monitors Binance markets and delivers 
 > plain-English, prioritized intelligence reports for traders and fintech 
